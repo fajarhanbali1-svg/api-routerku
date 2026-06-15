@@ -1,0 +1,6 @@
+{
+  "name": "api-routerku",
+  "scripts": {
+    "start": "npx -y 9router@latest"
+  }
+}
