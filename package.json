@@ -1,6 +1,9 @@
 {
   "name": "api-routerku",
+  "dependencies": {
+    "9router": "latest"
+  },
   "scripts": {
-    "start": "npx -y 9router@latest --no-browser"
+    "start": "9router --no-browser --skip-update --port $PORT"
   }
 }
